@@ -1,2 +1,2 @@
-# pmwnara.github.io
+# wpmihiranga.github.io
 This my personal website
